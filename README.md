@@ -1,6 +1,6 @@
 # blood_donation
 Predict Blood Donation • DrivenData
-•https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/
+• https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/
 
 I participated in a competition hosted by DrivenData.org which required to predict Blood Donation for various participants. My rank was 578/3466. 
 
